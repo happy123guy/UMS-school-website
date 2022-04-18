@@ -1,0 +1,40 @@
+#home img
+{
+    width:100%;
+    height:600px;
+    border:5px solid black
+}
+
+iframe
+{
+    width:100%;
+    height:600px;
+    border:5px solid black
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float:right;
+}
+
+#achievements span{
+    color:orangered;
+}
+
+body{
+margin-left: 20px;
+margin-right: 20px;
+background-color: lightblue;
+}
+
+li{
+text-decoration: none;
+}
+
